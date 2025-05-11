@@ -1,0 +1,10 @@
+streamlit
+PyPDF2==3.0.0
+google-generativeai
+plotly
+reportlab
+python-dotenv
+bs4
+theme-manager
+BeautifulSoup 
+
